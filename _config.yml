@@ -1,7 +1,7 @@
 # Site settings
-title: 暨南大学魔方协会官方网站
+title: 暨南大学魔方协会
 email: your-email@domain.com
-description: "暨南大学魔方协会官方网站。\n使用 Jekyll 模板构建。"
+description: "暨南大学魔方协会官方网站。使用 Jekyll 模板构建。"
 baseurl: ""
 url: "http://JNURubik.github.io"
 github_username:  JNURubik

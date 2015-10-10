@@ -4,12 +4,10 @@ layout: default
 
 <div class="home">
 
-  <a href="/rubikorig"><h1>Rubik Origin</h1></a>
-
-  <h1>一箩筐</h1>
+  <h1>Rubik Origin</h1>
 
   <ul class="posts">
-    {% for post in site.categories.main %}
+    {% for post in site.categories.rubikorig %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

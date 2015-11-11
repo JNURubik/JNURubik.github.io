@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1000 1000">
 	<circle cx="500" cy="400" r="300" fill="white" stroke="black"/>
-	<circle cx="500" cy="400" r="200" fill="white" stroke="black"/>
-
+	
 	<line x1="500" y1="100" x2="500" y2="200" stroke="#000000"/>
 	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(60 500 400)" stroke="#000000"/>
 	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(120 500 400)" stroke="#000000"/>
@@ -15,6 +14,13 @@
 	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="green" stroke="green" transform="rotate(210 500 400)"/>
 	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="yellow" stroke="yellow" transform="rotate(270 500 400)"/>
 	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="red" stroke="red" transform="rotate(330 500 400)"/>
+
+	<circle cx="500" cy="400" r="200" fill="white" stroke="black"/>
+
+	<!--这两个 x 和 y 不是计算得出的，是用 (485, 170) * rotate(-60, 500, 400) 得出结果后用 Inkscape 转一下得到的。-->
+	<text x="272.606" y="293.907" font-family="Ubuntu Mono" font-size="60">R</text>
+	<text x="697.394" y="293.907" font-family="Ubuntu Mono" font-size="60">C</text>
+	<text x="485" y="670" font-family="Ubuntu Mono" font-size="60">A</text>
 
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-117.073171 500 400)">J</text>
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-111.219512 500 400)">I</text>

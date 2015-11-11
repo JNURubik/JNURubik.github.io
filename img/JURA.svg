@@ -22,6 +22,14 @@
 	<text x="697.394" y="293.907" font-family="Ubuntu Mono" font-size="60">C</text>
 	<text x="485" y="670" font-family="Ubuntu Mono" font-size="60">A</text>
 
+	<polygon points="500,276.393 500,400 392.696,462.235 392.696,338.629" fill="red" stroke="black"/>
+	<polygon points="500,276.393 500,400 392.696,462.235 392.696,338.629" fill="yellow" stroke="black" transform="rotate(120 500 400)"/>
+	<polygon points="500,276.393 500,400 392.696,462.235 392.696,338.629" fill="blue" stroke="black" transform="rotate(240 500 400)"/>
+
+	<text x="" y="" font-family="Ubuntu Mono" font-size="60">J</text>
+	<text x="" y="" font-family="Ubuntu Mono" font-size="60">N</text>
+	<text x="485" y="485" font-family="Ubuntu Mono" font-size="60">U</text>
+
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-117.073171 500 400)">J</text>
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-111.219512 500 400)">I</text>
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-105.365854 500 400)">N</text>

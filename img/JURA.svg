@@ -9,45 +9,45 @@
 	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(240 500 400)" stroke="#000000"/>
 	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(300 500 400)" stroke="#000000"/>
 
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-117.073171 500 400)">J</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-111.219512 500 400)">I</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-105.365854 500 400)">N</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-99.512195 500 400)">A</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-93.658537 500 400)">N</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-87.804878 500 400)"> </text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-81.951220 500 400)">U</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-76.097561 500 400)">N</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-70.243902 500 400)">I</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-64.390244 500 400)">V</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-58.536585 500 400)">E</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-52.682927 500 400)">R</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-46.829268 500 400)">S</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-40.975610 500 400)">I</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-35.121951 500 400)">T</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-29.268293 500 400)">Y</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-23.414634 500 400)"> </text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-17.560976 500 400)">R</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-11.707317 500 400)">U</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(-5.853659 500 400)">B</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(0 500 400)">I</text><!--Here center does-->
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(5.853659 500 400)">K</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(11.707317 500 400)">S</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(17.560976 500 400)">'</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(23.414634 500 400)"> </text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(29.268293 500 400)">C</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(35.121951 500 400)">U</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(40.975610 500 400)">B</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(46.829268 500 400)">E</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(52.682927 500 400)"> </text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(58.536585 500 400)">A</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(64.390244 500 400)">S</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(70.243902 500 400)">S</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(76.097561 500 400)">O</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(81.951220 500 400)">C</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(87.804878 500 400)">I</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(93.658537 500 400)">A</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(99.512195 500 400)">T</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(105.365854 500 400)">I</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(111.219512 500 400)">O</text>
-	<text x="490" y="70" font-family="Ubuntu Mono" font-size="40" transform="rotate(117.073171 500 400)">N</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-117.073171 500 400)">J</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-111.219512 500 400)">I</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-105.365854 500 400)">N</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-99.512195 500 400)">A</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-93.658537 500 400)">N</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-87.804878 500 400)"> </text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-81.951220 500 400)">U</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-76.097561 500 400)">N</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-70.243902 500 400)">I</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-64.390244 500 400)">V</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-58.536585 500 400)">E</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-52.682927 500 400)">R</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-46.829268 500 400)">S</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-40.975610 500 400)">I</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-35.121951 500 400)">T</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-29.268293 500 400)">Y</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-23.414634 500 400)"> </text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-17.560976 500 400)">R</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-11.707317 500 400)">U</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-5.853659 500 400)">B</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(0 500 400)">I</text><!--Here center does-->
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(5.853659 500 400)">K</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(11.707317 500 400)">S</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(17.560976 500 400)">'</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(23.414634 500 400)"> </text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(29.268293 500 400)">C</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(35.121951 500 400)">U</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(40.975610 500 400)">B</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(46.829268 500 400)">E</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(52.682927 500 400)"> </text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(58.536585 500 400)">A</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(64.390244 500 400)">S</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(70.243902 500 400)">S</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(76.097561 500 400)">O</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(81.951220 500 400)">C</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(87.804878 500 400)">I</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(93.658537 500 400)">A</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(99.512195 500 400)">T</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(105.365854 500 400)">I</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(111.219512 500 400)">O</text>
+	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(117.073171 500 400)">N</text>
 </svg>

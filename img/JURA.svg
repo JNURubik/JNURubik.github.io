@@ -9,6 +9,13 @@
 	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(240 500 400)" stroke="#000000"/>
 	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(300 500 400)" stroke="#000000"/>
 
+	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="blue" stroke="blue" transform="rotate(30 500 400)"/>
+	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="white" stroke="white" transform="rotate(90 500 400)"/>
+	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="orange" stroke="orange" transform="rotate(150 500 400)"/>
+	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="green" stroke="green" transform="rotate(210 500 400)"/>
+	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="yellow" stroke="yellow" transform="rotate(270 500 400)"/>
+	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="red" stroke="red" transform="rotate(330 500 400)"/>
+
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-117.073171 500 400)">J</text>
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-111.219512 500 400)">I</text>
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(-105.365854 500 400)">N</text>

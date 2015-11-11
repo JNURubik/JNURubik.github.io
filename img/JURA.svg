@@ -1,12 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1000 1000">
 	<circle cx="500" cy="400" r="300" fill="white" stroke="black"/>
-	
-	<line x1="500" y1="100" x2="500" y2="200" stroke="#000000"/>
-	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(60 500 400)" stroke="#000000"/>
-	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(120 500 400)" stroke="#000000"/>
-	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(180 500 400)" stroke="#000000"/>
-	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(240 500 400)" stroke="#000000"/>
-	<line x1="500" y1="100" x2="500" y2="200" transform="rotate(300 500 400)" stroke="#000000"/>
 
 	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="blue" stroke="blue" transform="rotate(30 500 400)"/>
 	<path d="M500 400 L500 100 A300 300 0 0 0 240.192389 250" fill="white" stroke="white" transform="rotate(90 500 400)"/>
@@ -71,4 +64,6 @@
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(105.365854 500 400)">I</text>
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(111.219512 500 400)">O</text>
 	<text x="485" y="70" font-family="Ubuntu Mono" font-size="60" transform="rotate(117.073171 500 400)">N</text>
+
+	<text x="180" y="850" font-family="Simsun" font-size="80">暨南大学魔方协会</text>
 </svg>

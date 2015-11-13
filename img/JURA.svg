@@ -15,9 +15,9 @@
 	<text x="697.394" y="293.907" font-family="Ubuntu Mono, monospace" font-size="60">C</text>
 	<text x="485" y="670" font-family="Ubuntu Mono, monospace" font-size="60">A</text>
 
-	<polygon points="500,276.393 500,400 392.696,462.235 392.696,338.629" fill="orange" stroke="black"/>
+	<polygon points="500,276.393 500,400 392.696,462.235 392.696,338.629" fill="blue" stroke="black"/>
 	<polygon points="500,276.393 500,400 392.696,462.235 392.696,338.629" fill="yellow" stroke="black" transform="rotate(120 500 400)"/>
-	<polygon points="500,276.393 500,400 392.696,462.235 392.696,338.629" fill="blue" stroke="black" transform="rotate(240 500 400)"/>
+	<polygon points="500,276.393 500,400 392.696,462.235 392.696,338.629" fill="red" stroke="black" transform="rotate(240 500 400)"/>
 
 	<text x="439.624" y="384.255" font-family="Ubuntu Mono, monospace" font-size="60">J</text>
 	<text x="540.376" y="384.255" font-family="Ubuntu Mono, monospace" font-size="60">N</text>
